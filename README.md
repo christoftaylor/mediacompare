@@ -1,5 +1,5 @@
 # mediacompare
-python script wrapper around mediainfo to allow for side-by-side comparison of two files
+python script wrapper around [mediainfo](https://mediaarea.net/en/MediaInfo) to allow for side-by-side comparison of two media files
 
 
 
