@@ -10,5 +10,6 @@ Known issues:
    - It tries to keep the order, but fields in the 2nd file not present in the 1st get shuffled
      to the bottom rather than injected into the middle. I'm not sure how to clean that up.
 Future ideas:
-   - only print out fields of interest, drop things like 'Encoding_settings' and only print useful
-   - add a -t option that creates a tab-separated file instead of columns, won't need to truncate
+   - only print out interesting fields, drop things like 'Encoding_settings'
+   - add a -t option that creates a tab-separated output instead of columns, won't need to truncate
+
